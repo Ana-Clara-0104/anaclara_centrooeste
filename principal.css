@@ -1,0 +1,40 @@
+h1{
+    color: white;
+}
+body {
+    
+    background-color: rgb(92, 55, 224);
+    text-align: center;
+    font-style: oblique;
+    font-family: Arial;
+}
+
+
+    h1 {
+
+       color: black;
+       text-align: center;
+
+    }
+
+    table {
+
+        background-color: rgb(136, 136, 136);
+         margin: auto;
+         border-collapse: collapse;
+         width: 70%;
+
+    }
+
+    td {
+
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+
+    }
+    
+    footer {
+     color:antiquewhite
+
+    }
